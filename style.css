@@ -1,0 +1,88 @@
+.bigContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.camel{
+    border: 2px solid black;
+    border-width: 1px;
+}
+.chameleon{
+    border: 2px solid black;
+    border-width: 1px;
+}
+.cicada{
+    border: 2px solid black;
+    border-width: 1px;
+}
+.panda{
+    border: 2px solid black;
+    border-width: 1px;
+}
+.pigeon{
+    border: 2px solid black;
+    border-width: 1px;
+}
+.teddy{
+    border: 2px solid black;
+    border-width: 1px;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+    font-weight: 400;
+    color: white;
+    width: 40px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+.bodyimg{
+    position: relative;
+}
+
+.bodyimg p{
+    position: absolute;
+    top: 20%;
+    right: 30%;
+    font-size: 40px;
+    color: white;
+    font-family: serif;
+}
+
+.bodyimg h3{
+    position: absolute;
+    top: 37%;
+    right: 15%;
+    font-size: 20px;
+    color: white;
+    font-family: fantasy;
+    left: 15%;
+}
